@@ -106,11 +106,7 @@ body{
                    padding: 10px 20px;
                    border-radius: 8px;
                    width: 150px;}
-               .promo ol a:hover {
-                   background-color: #654321;
-                   color: white;
-                   
-               }
+               
                #Wa {
                    display: inline-block;
                    background-color: #25D366;
